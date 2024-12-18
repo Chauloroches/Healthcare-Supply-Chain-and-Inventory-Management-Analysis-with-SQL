@@ -1,0 +1,101 @@
+Supplier_ID,Supplier_Name,Item_ID,Lead_Time_Days
+1,"Davis, Allen and Miller",166,12
+2,Williams Inc,129,9
+3,Richards Inc,14,15
+4,Herrera-Carey,47,4
+5,Stanton Ltd,118,9
+6,Valdez-West,295,10
+7,Jones-Smith,11,9
+8,Roth LLC,138,7
+9,Thomas-Allen,296,7
+10,Pena PLC,21,10
+11,Howard Ltd,90,14
+12,Marsh LLC,241,10
+13,King-Johnson,266,8
+14,"Mendoza, Smith and Stone",227,9
+15,Bryant Group,143,7
+16,Ward-Jensen,93,15
+17,Gonzales-Doyle,300,5
+18,Davis-Dunn,224,13
+19,"Lynn, Irwin and White",252,5
+20,Mcguire-Evans,47,11
+21,Reynolds-Hoffman,241,8
+22,Riley Ltd,179,5
+23,"Estrada, Hall and Lopez",210,15
+24,Chase Inc,171,14
+25,"Randolph, Woods and Davies",165,8
+26,Welch-Rivera,54,2
+27,"Lyons, Garza and Mccormick",83,7
+28,Wright-Rogers,169,13
+29,Chang Inc,211,9
+30,"Young, Nelson and Fisher",254,13
+31,"Graham, Kline and Pena",148,14
+32,"Mcdonald, Anderson and Peters",206,8
+33,Warner-Cohen,282,8
+34,"Snyder, Macias and Williams",19,12
+35,Francis-White,233,14
+36,Watson-Maynard,46,15
+37,Griffin-Palmer,162,12
+38,Huynh Group,130,4
+39,"Fields, Martinez and Fletcher",166,9
+40,Fernandez Ltd,60,2
+41,"Cisneros, Werner and King",207,4
+42,Fleming-Scott,264,10
+43,Booth-Davis,1,11
+44,"Melendez, Bender and Cobb",278,7
+45,Smith Group,237,15
+46,Morgan Group,212,3
+47,Andrews PLC,28,15
+48,Patrick Group,97,15
+49,"Garcia, Lutz and Wallace",266,9
+50,Zamora-Williams,186,3
+51,Hill-Combs,256,10
+52,Patrick-Hall,227,9
+53,Thornton PLC,27,2
+54,"Martinez, Stokes and Willis",105,13
+55,Morgan-Miller,137,4
+56,"Combs, Brown and Yates",282,8
+57,Rios-Davidson,68,15
+58,Mathews Inc,148,12
+59,Peterson and Sons,225,4
+60,Rodgers Group,249,3
+61,Murphy-Yoder,63,9
+62,Becker and Sons,15,14
+63,Smith LLC,123,6
+64,Ortiz-Bray,82,7
+65,Pena-Jimenez,160,11
+66,Smith-Brown,283,13
+67,Miller-Rodriguez,8,8
+68,"Byrd, Gonzalez and Johnson",283,12
+69,Leach-Gray,209,3
+70,"Hansen, Morris and Harris",48,15
+71,Soto-Wheeler,116,7
+72,Bender Ltd,59,15
+73,Stevenson-Jones,237,12
+74,"Burns, Smith and Walker",61,15
+75,Jones-Wright,79,10
+76,Vasquez Ltd,256,8
+77,Vasquez and Sons,150,7
+78,"Jacobs, Kramer and Torres",261,12
+79,Cox-Newton,140,13
+80,"Morris, Craig and Hall",213,14
+81,Richardson-Chen,248,9
+82,"Patterson, Fisher and Perkins",242,15
+83,"Blackburn, Anderson and Gardner",125,10
+84,Walker PLC,234,2
+85,"Silva, Turner and Bowen",283,11
+86,"Johnson, Hughes and Gray",75,3
+87,"Conrad, Henderson and Brown",197,5
+88,"Wilkerson, Lewis and Brown",98,12
+89,Patterson PLC,261,12
+90,"Jones, Green and Phelps",70,6
+91,English-Johnson,36,5
+92,Johnson-Alvarado,142,13
+93,"Perez, Gordon and Murphy",213,3
+94,"Mitchell, Peterson and Smith",175,8
+95,Miller Group,260,3
+96,"Garrett, Becker and Gonzales",137,14
+97,Davis Inc,2,12
+98,Chapman Inc,145,13
+99,Banks LLC,153,15
+100,Long Group,297,3
