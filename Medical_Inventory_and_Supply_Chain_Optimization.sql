@@ -218,7 +218,7 @@ ORDER BY st.Month, st.Item_ID;
 -- correlation = sales_restocking[['Total_Sales', 'Total_Restocked']].corr()
 -- Insights:
 -- A high positive correlation indicates that restocking patterns closely follow sales trends.
--- A low or negative correlation may indicate inefficiencies in restocking (e.g., overstocking or delayed restocking).
+-- A low or negative correlation may indicate inefficiencies in restocking (overstocking or delayed restocking).
 
 -- 5.Demand Forecasting:
 -- Predict demand for specific items based on past sales trends
@@ -253,9 +253,9 @@ JOIN Inventory i
 ON dp.Item_ID = i.Item_ID
 ORDER BY dp.Average_Monthly_Sales DESC;
 -- Insights:
--- High-Demand Items: Items that consistently sell more than their reorder threshold should be prioritized for restocking.
--- Seasonal Peaks: Peaks in sales can indicate seasonal demand, e.g., vaccines during flu seasons.
--- Demand Levels: Helps facilities prioritize inventory management for specific products
+-- High-Demand Items- Items that consistently sell more than their reorder threshold should be prioritized for restocking.
+-- Seasonal Peaks- Peaks in sales can indicate seasonal demand, e.g., vaccines during flu seasons.
+-- Demand Levels- Helps facilities prioritize inventory management for specific products
 
 -- Identify underperforming regions with potential supply-demand gaps.
 WITH RegionalSales AS (
@@ -272,5 +272,6 @@ FROM RegionalSales
 WHERE Total_Demand > COALESCE(Total_Supply,0)
 ORDER BY Supply_Demand_Gap DESC;
 -- Insights:
--- Regions and items with the largest supply-demand gaps
+-- Item_Name(Student) with Item_ID(189) in category(Medine) in Nairobi is the highest with supply demand gap
+-- Item_Name(Invoice) with Item_ID(78) in Category(Equipment) in Eldorect is the lowest with supply demand gap
 
